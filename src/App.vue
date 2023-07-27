@@ -32,7 +32,7 @@ export default {
   name: 'app',
   data(){
     return{
-      api_key: 'c5232746fedf1647d080d06c21be2225',
+      api_key: 'API_KEY',
       url_base: 'https://api.open-meteo.com/v1/',
       url_loc_base: 'http://api.openweathermap.org/geo/1.0/',
       query: '',
